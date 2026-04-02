@@ -1,3 +1,5 @@
+pip install opencv-python scikit-image scikit-learn numpy matplotlib
+
 import os
 import cv2
 import numpy as np
